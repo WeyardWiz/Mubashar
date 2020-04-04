@@ -1,0 +1,22 @@
+#btnGoTop
+    {
+        color: #fff !important;
+        box-shadow: inset 0 0 0 2px #ffffff !important;
+        position: fixed;
+        top: 80%;
+        left: 93%;
+        display: none;
+    }
+
+    .button-whatsapp:hover
+    {
+    	box-shadow: inset 0 0 0 2px #25d366 !important;
+    	color:#25d366 !important;
+
+    }
+
+    .button-fb:hover
+    {
+    	box-shadow: inset 0 0 0 2px #3b5998 !important;
+    	color:#3b5998 !important;
+    }
