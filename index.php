@@ -17,7 +17,7 @@
 <!-- Wrapper -->
 <div id="wrapper" class="fade-in">
 
-					<!-- font awesome https://fontawesome.com/ -->
+				<!-- font awesome https://fontawesome.com/ -->
     <a href="" class="button icon solo fa fa-arrow-up" id="btnGoTop"></a>
     <!-- Intro -->
     <div id="intro">
